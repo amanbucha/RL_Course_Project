@@ -1,2 +1,2 @@
 # RL_Project
-Online MAB with Markovian Rewards
+Online Multi Armed-Bandits with Markovian Rewards
